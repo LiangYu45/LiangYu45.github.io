@@ -1,0 +1,38 @@
+#Markdown学习
+尝试超链接   [link to google](http://google.com)
+
+写成列表
+1. f
+2. u 
+3. c
+4. k
+
+* a
+* b
+* c
+* d
+
+-a
+-b 
+  -间隔两个空格before the dash 就是此主题
+
+
+## 代码
+
+```
+if (a){
+
+then b
+}
+```
+
+```python
+ print('haha')
+ ```
+ 
+ ##其他
+  @人  就是 @
+  
+###任务列表
+-[x] 这就是做完了
+-[ ] 这就是没做完的 :smile  :rofl
